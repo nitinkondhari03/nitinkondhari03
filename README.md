@@ -1,11 +1,11 @@
-### Hi I am Nitin Kondhari 👋
+<h2 align="center">Hi 👋, Nitin Kondhari</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub+Profile;I+'m+A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 ![](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
 <br>
-<h1 align="center">Hi 👋, I'm NITIN KONDHARI</h1>
+
 <br>
 A passionate and self-motivated aspiring full stack web developer from Masai school with specialization in MERN stack. Having deep knowledge in writing a web application using both frontend and backend development tools. Looking for a job opportunity in a technology-driven organization that not only helps want to showcase their skill but also enhances their career and knowledge.
 
