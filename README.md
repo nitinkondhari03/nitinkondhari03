@@ -19,14 +19,14 @@ A passionate and self-motivated aspiring full stack web developer from Masai sch
 - 👨‍💻 Look into my portfolio : [Nitin-Kondhari-portfolio](https://nitinkondhari03.github.io/)
 - 📫 How to reach me: nitinkondhari@gmail.com
 
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p >
 <a href="https://www.linkedin.com/in/nitinkondhari/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </p>
-
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left"  >  
@@ -40,16 +40,16 @@ A passionate and self-motivated aspiring full stack web developer from Masai sch
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-
+<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkondhari03&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
 ![Abhijit Biswas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinkondhari03&theme=dark&show_icons=true&count_private=true)
-
+<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nitinkondhari03&theme=sea)](https://git.io/streak-stats)
-
+<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinkondhari03&theme=github_dark)
-
+<br>
 ![GitHub metrics](https://metrics.lecoq.io/nitinkondhari03)
 
