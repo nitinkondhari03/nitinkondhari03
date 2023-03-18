@@ -9,8 +9,8 @@
 
 <!-- <img align="right" alt="coding" width="400" src="https://vectorified.com/image/vector-gif-5.gif"> -->
 
-<h2>
-A passionate and self-motivated aspiring full stack web developer from Masai school with specialization in MERN stack. Having deep knowledge in writing a web application using both frontend and backend development tools. Looking for a job opportunity in a technology-driven organization that not only helps want to showcase their skill but also enhances their career and knowledge.</h2>
+
+A passionate and self-motivated aspiring full stack web developer from Masai school with specialization in MERN stack. Having deep knowledge in writing a web application using both frontend and backend development tools. Looking for a job opportunity in a technology-driven organization that not only helps want to showcase their skill but also enhances their career and knowledge.
 
 <!-- <img align="right" alt="coding" width="200" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"> -->
 
