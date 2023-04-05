@@ -89,7 +89,5 @@ A passionate and self-motivated aspiring full stack web developer from Masai sch
 <h2 align="center"></h2>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinkondhari03&theme=github_dark" align="center" alt="nodejs" />
 
-<h2 align="center">Github Metrics</h2>
 
-![GitHub metrics](https://metrics.lecoq.io/nitinkondhari03)
 
