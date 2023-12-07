@@ -87,7 +87,7 @@ A passionate and self-motivated aspiring full-stack web developer from Masai sch
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nitinkondhari03&ring=red&currStreakLabel=000000&fire=black&theme=transparent&stroke=e0eff8" align="center" alt="nodejs" />
 
 <h2 align="center"></h2>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinkondhari03&theme=github_dark" align="center" alt="nodejs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinkondhari03" align="center" alt="nodejs" />
 
 
 
