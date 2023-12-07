@@ -10,7 +10,7 @@
 <!-- <img align="right" alt="coding" width="400" src="https://vectorified.com/image/vector-gif-5.gif"> -->
 
 
-A passionate and self-motivated aspiring full stack web developer from Masai school with specialization in MERN stack. Having deep knowledge in writing a web application using both frontend and backend development tools. Looking for a job opportunity in a technology-driven organization that not only helps want to showcase their skill but also enhances their career and knowledge.
+A passionate and self-motivated aspiring full-stack web developer from Masai school with specialization in MERN stack. Having deep knowledge in writing a web application using both frontend and backend development tools. Looking for a job opportunity in a technology-driven organization that not only helps want to showcase their skill but also enhances their career and knowledge.
 
 <!-- <img align="right" alt="coding" width="200" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"> -->
 
@@ -78,13 +78,13 @@ A passionate and self-motivated aspiring full stack web developer from Masai sch
 <br>
 
 <h2 align="center">Most Used language</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkondhari03&langs_count=8)](https://github.com/nitinkondhari03/github-readme-stats" align="center" alt="nodejs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkondhari03&layout=compact&langs_count=4&bg_color=black" align="center" alt="nodejs" />
 
 <h2 align="center">GitHub stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=nitinkondhari03&theme=dark&show_icons=true&count_private=true" align="center" alt="nodejs" />
+<img src="https://github-readme-stats.vercel.app/api?username=nitinkondhari03&theme=black&show_icons=true&bg_color=black" align="center" alt="nodejs" />
 
 <h2 align="center"></h2>
-<img src="https://streak-stats.demolab.com/?user=nitinkondhari03&theme=sea)](https://git.io/streak-stats" align="center" alt="nodejs" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nitinkondhari03&ring=red&currStreakLabel=000000&fire=black&theme=transparent&stroke=e0eff8" align="center" alt="nodejs" />
 
 <h2 align="center"></h2>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinkondhari03&theme=github_dark" align="center" alt="nodejs" />
