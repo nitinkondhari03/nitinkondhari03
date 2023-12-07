@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=279510CF&width=435&lines=Welcome+To+My+GitHub+Profile;I'm+A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=Welcome+To+My+GitHub+Profile;I'm+A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 <h2 align="center">Hi 👋, Nitin Kondhari</h2>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
