@@ -10,8 +10,10 @@
 
 <!-- <img align="right" alt="coding" width="400" src="https://vectorified.com/image/vector-gif-5.gif"> -->
 
-
+<p align="center">
 A passionate and self-motivated aspiring full-stack web developer from Masai school with specialization in MERN stack. Having deep knowledge in writing a web application using both frontend and backend development tools. Looking for a job opportunity in a technology-driven organization that not only helps want to showcase their skill but also enhances their career and knowledge.
+</p>
+<br>
 
 <!-- <img align="right" alt="coding" width="200" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"> -->
 
@@ -21,7 +23,6 @@ A passionate and self-motivated aspiring full-stack web developer from Masai sch
 - 📄 Look into my resume : [Nitin Kondhari](https://drive.google.com/file/d/1MIKbQePBvVrZoP3Wk-bWH0oA5oY_FyVI/view?usp=sharing)
 - 👨‍💻 Look into my portfolio : [Nitin-Kondhari-portfolio](https://nitinkondhari03.github.io/)
 - 📫 How to reach me: nitinkondhari85@gmail.com
-
 <br>
 <h2 align="center">Connect with me:</h2>
 <br/>
