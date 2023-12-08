@@ -23,11 +23,13 @@ A passionate and self-motivated aspiring full-stack web developer from Masai sch
 - 📫 How to reach me: nitinkondhari85@gmail.com
 
 <br>
-<h3 align="center">Connect with me:</h3>
-<p >
-<a href="https://www.linkedin.com/in/nitinkondhari/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<h2 align="center">Connect with me:</h2>
+<br/>
+<p align="center">
+<a href="https://www.linkedin.com/in/nitinkondhari/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" alt="nitinkondhari"  /></a>
+ <a href="https://nitinkondhari03.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
+    </a>
 </p>
 <br>
 
