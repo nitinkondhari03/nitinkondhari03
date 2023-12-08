@@ -26,8 +26,8 @@ A passionate and self-motivated aspiring full-stack web developer from Masai sch
 <h2 align="center">Connect with me:</h2>
 <br/>
 <p align="center">
-<a href="https://www.linkedin.com/in/nitinkondhari/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" alt="nitinkondhari"  /></a>
- <a href="https://nitinkondhari03.github.io/">
+<a target="_blank" href="https://www.linkedin.com/in/nitinkondhari/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" alt="nitinkondhari"  /></a>
+ <a target="_blank" href="https://nitinkondhari03.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
     </a>
 </p>
