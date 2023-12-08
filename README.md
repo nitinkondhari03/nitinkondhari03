@@ -15,8 +15,6 @@ A passionate and self-motivated aspiring full-stack web developer from Masai sch
 </p>
 <br>
 
-<!-- <img align="right" alt="coding" width="200" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"> -->
-
 - 🔭 I’m currently working on **React Projects**
 - 🌱 I’m currently learning **Next js**
 - 💬 Ask me about ***HTML / CSS / JS / REACT***
