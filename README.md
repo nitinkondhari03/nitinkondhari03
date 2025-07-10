@@ -11,13 +11,13 @@
 <!-- <img align="right" alt="coding" width="400" src="https://vectorified.com/image/vector-gif-5.gif"> -->
 
 <p align="center">
-A passionate and self-motivated aspiring full-stack web developer from Masai school with specialization in MERN stack. Having deep knowledge in writing a web application using both frontend and backend development tools. Looking for a job opportunity in a technology-driven organization that not only helps want to showcase their skill but also enhances their career and knowledge.
+A passionate and self-motivated aspiring full-stack web developer from Masai school with specialization in MERN stack. Having deep knowledge in writing a web application using both frontend and backend development tools, and looking for a job opportunity in a technology-driven organization that not only wants to showcase their skill but also enhances their career and knowledge.
 </p>
 <br>
 
 - 🔭 I’m currently working on **Mern Stack Project**
 - 📄 Look into my resume : [Nitin Kondhari](https://drive.google.cvsjdgsgom/file/d/1MIKbQePBvVrZoP3Wk-bWH0oA5oY_FyVI/view?usp=sharinggsjs)
-- 👨‍💻 Look into my portfolio : [Nitin-Kondhari-portfolio](https://nitinkondhari03.github.hhgio/)
+- 👨‍💻 Look into my portfolio : [Nitin-Kondhari-portfolio](https://nitinkondhari03.github.io/)
 - 📫 How to reach me: nitinkondhari85@gmail.com
 <br>
 <h2 align="center">Connect with me:</h2>
