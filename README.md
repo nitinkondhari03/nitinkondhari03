@@ -16,7 +16,7 @@ A passionate and self-motivated aspiring full-stack web developer from Masai sch
 <br>
 
 - 🔭 I’m currently working on **Mern Stack Project**
-- 📄 Look into my resume : [Nitin Kondhari](https://drive.google.cvsjdgsgom/file/d/1MIKbQePBvVrZoP3Wk-bWH0oA5oY_FyVI/view?usp=sharinggsjs)
+- 📄 Look into my resume : [Nitin Kondhari](https://drive.google.com/file/d/1MIKbQePBvVrZoP3Wk-bWH0oA5oY_FyVI/view?usp=sharing)
 - 👨‍💻 Look into my portfolio : [Nitin-Kondhari-portfolio](https://nitinkondhari03.github.io/)
 - 📫 How to reach me: nitinkondhari85@gmail.com
 <br>
