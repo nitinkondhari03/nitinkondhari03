@@ -2,7 +2,7 @@
 <P align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=24&pause=1000&color=000000&random=false&width=435&lines=Welcome+To+My+GitHub+Profile;I'm+A+Full+Stack+Web+Developer" alt="Typing SVG" /></P>
 
 <h2 align="center">Hi 👋,I'm Nitin Kondhari</h2>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 
 <!-- ![](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif) -->
@@ -15,7 +15,7 @@ Full Stack Web Developer with 19 months of professional experience in designing,
 </p>
 <br>
 
-- 🔭 I’m currently working on **Mern Stack Project**
+- 🔭 I’m currently working on **Full Stack Project**
 - 📄 Look into my resume : [Nitin Kondhari](https://drive.google.com/file/d/1MIKbQePBvVrZoP3Wk-bWH0oA5oY_FyVI/view?usp=sharing)
 - 👨‍💻 Look into my portfolio : [Nitin-Kondhari-portfolio](https://nitinkondhari03.github.io/)
 - 📫 How to reach me: nitinkondhari85@gmail.com
