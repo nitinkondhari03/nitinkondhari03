@@ -114,21 +114,21 @@ Full Stack Web Developer with 19 months of professional experience in designing,
 <!-- <h2 align="center">GitHub stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nitinkondhari03&theme=black&show_icons=true&bg_color=black" align="center" alt="nodejs" />
-</div>
+</div> -->
 
-<h2 align="center"></h2>
+<!-- <h2 align="center"></h2>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nitinkondhari03&ring=red&currStreakLabel=000000&fire=black&theme=transparent&stroke=e0eff8" align="center" alt="nodejs" />
-</div>
+</div> -->
 
-<h2 align="center"></h2>
+<!-- <h2 align="center"></h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkondhari03&layout=compact&langs_count=4&bg_color=black" align="center" alt="nodejs" />
-</div>
+</div>  -->
 
 <h2 align="center"></h2>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinkondhari03" align="center" alt="nodejs" />
-</div> -->
+</div> 
 
 
