@@ -23,7 +23,7 @@ Full Stack Web Developer with 19 months of professional experience in designing,
 <h2 align="center">Connect with me:</h2>
 <br/>
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/nitinkondhari/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" alt="nitinkondhari"  /></a>
+<a target="_blank" href="https://www.linkedin.com/in/nitinkondhari/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/380px-LinkedIn_icon.svg.png" alt="nitinkondhari"  /></a>
 <-- <a target="_blank" href="https://nitinkondhari03.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
     </a> -->
