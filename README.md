@@ -11,7 +11,7 @@
 <!-- <img align="right" alt="coding" width="400" src="https://vectorified.com/image/vector-gif-5.gif"> -->
 
 <p align="center">
-A passionate and self-motivated aspiring full-stack web developer from Masai school with specialization in MERN stack. Having deep knowledge in writing a web application using both frontend and backend development tools, and looking for a job opportunity in a technology-driven organization that not only wants to showcase their skill but also enhances their career and knowledge.
+Full Stack Web Developer with 19 months of professional experience in designing, developing, and maintaining scalable web applications using modern frontend and backend technologies. Proven ability to build secure, high-performance systems while effectively collaborating across the entire software development lifecycle. Actively seeking opportunities to contribute technical expertise to a technology-driven organization and drive continuous professional growth.
 </p>
 <br>
 
