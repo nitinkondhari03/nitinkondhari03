@@ -35,51 +35,83 @@ Full Stack Web Developer with 19 months of professional experience in designing,
 <h2 align="center">🚀 Languages and Tools:</h2>
 <br/>
 <div align="center">
- 
- <div align="center"><h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
+
+<!-- Frontend -->
+<div align="center">
+  <h3 align="center">Frontend</h3>
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra_UI-4ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-000000.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+</div>
 
 <br/>
-<br/>
-   <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' align='center' alt='next' />
-   <img src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white' align='center'alt='bootstrap' />
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
-  
+
+<!-- Backend -->
+<div align="center">
+  <h3 align="center">Backend</h3>
+
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" />
 </div>
- <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="MongoDB"/>
- </div>
-  
-  <div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="GitHub"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vs code"/>
-   <br/>
+
 <br/>
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
-    <img src='https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white' align='center' alt='storybook' />
- </div>
+
+<!-- Database -->
+<div align="center">
+  <h3 align="center">Database</h3>
+
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+<br/>
+
+<!-- Programming Languages -->
+<div align="center">
+  <h3 align="center">Programming Languages</h3>
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<br/>
+
+<!-- Tools -->
+<div align="center">
+  <h3 align="center">Tools & Other</h3>
+
+  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Netlify-000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white" />
+</div>
+
 </div>
 
 <br>
 <br>
 
-<h2 align="center">GitHub stats</h2>
+
+<!-- <h2 align="center">GitHub stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nitinkondhari03&theme=black&show_icons=true&bg_color=black" align="center" alt="nodejs" />
 </div>
@@ -97,6 +129,6 @@ Full Stack Web Developer with 19 months of professional experience in designing,
 <h2 align="center"></h2>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinkondhari03" align="center" alt="nodejs" />
-</div>
+</div> -->
 
 
